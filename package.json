@@ -16,12 +16,16 @@
     "@capacitor/haptics": "6.0.1",
     "@capacitor/keyboard": "6.0.2",
     "@capacitor/status-bar": "6.0.1",
+    "@ionic-native/nfc": "^5.36.0",
     "@nuxtjs/ionic": "^0.15.1",
+    "@types/cordova": "latest",
+    "capacitor-nfc": "^0.1.5",
     "nuxt": "^3.13.0",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
-    "@capacitor/cli": "6.1.2"
+    "@capacitor/cli": "6.1.2",
+    "@vue/cli-service": "5.0.8"
   }
 }
